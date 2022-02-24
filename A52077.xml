@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine observations upon some texts of Scripture gathered together for the setting forth the Kings avthority and the peoples dvty.</title>
+            <author>T. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52077</idno>
+            <idno type="STC">Wing M81</idno>
+            <idno type="STC">ESTC R26186</idno>
+            <idno type="EEBO-CITATION">09382592</idno>
+            <idno type="OCLC">ocm 09382592</idno>
+            <idno type="VID">42913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1312:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine observations upon some texts of Scripture gathered together for the setting forth the Kings avthority and the peoples dvty.</title>
+                  <author>T. M.</author>
+               </titleStmt>
+               <extent>[2], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: T.M.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings.</term>
+               <term>Prerogative, Royal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42913:1" rendition="simple:additions"/>
+            <pb facs="tcp:42913:1" rendition="simple:additions"/>
+            <p>CERTAINE OBSERVATIONS <hi>UPON</hi> Some Texts of SCRIPTURE, GATHERED TOGETHER FOR THE SETTING FORTH THE <hi>KINGS</hi> AVTHORITY, AND THE <hi>PEOPLES</hi> DVTY.</p>
+            <q>
+               <bibl>
+                  <hi>Col. 3.16.</hi>
+               </bibl> And now brethren, let the word of Chriſt dwell in you richly in all wiſdome, teaching and admoniſhing one another.</q>
+            <q>
+               <bibl>
+                  <hi>John. 5.39.</hi>
+               </bibl> Search the Scriptures, for in them ye thinke ye have eternall life, and they are they that teſtifie theſe things.</q>
+            <p>Printed in the year, 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42913:2" rendition="simple:additions"/>
+            <pb facs="tcp:42913:2"/>
+            <head>To the READER.</head>
+            <p>GEntle Reader, J finding the worke hereof to be very beneficiall for the publike, it be<g ref="char:EOLhyphen"/>ing a publike worke, durſt not wrong mine owne conſcience ſo much as to conceal it for mine owne uſe, &amp; wrap up my talent in a napkin, without im<g ref="char:EOLhyphen"/>parting it to the good of others: J deſire therefore nothing more then your Chriſtian patience, be<g ref="char:EOLhyphen"/>cauſe you muſt not expect the enſuing matter as a diſcourſe from the learned; but accept of it as a poor gift freely beſtowed upon the Kingdome from a weake Lay-man, who had rather ſpeake five words with underſtanding, then ten thouſand in an unknown tongue: And whoſe wiſedome was not able to dive into any further diſcourſe, but to take up and gather together ſeverall Scriptures,
+<pb facs="tcp:42913:3"/>and from thence plain truths, as are revealed in the Scriptures by the Prophets and Apoſtles, in the Old and New Teſtament: that ſo they may be more fully made known, to this end, that we may all in this Kingdome, more ſpeedily put them into practice: which is the prayer, and de<g ref="char:EOLhyphen"/>ſire of</p>
+            <closer>
+               <signed>Your friend and ſervant, <hi>T. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42913:3"/>
+            <p>
+               <hi>IF there be any that be deſirous with</hi> Enoch <hi>to walk with God, and to pleaſe him: Or with</hi> Abraham <hi>the father of the faith<g ref="char:EOLhyphen"/>full, to walk before God and to be upright: Or with</hi> Zacha<g ref="char:EOLhyphen"/>rias <hi>and</hi> Elizabeth <hi>the righteous ſervants of the Lord, to walk in the Commandements and ordinances of the Lord blameleſſe:</hi>
+            </p>
+            <p>
+               <hi>Then with the Prophet</hi> Micah <hi>4.2.</hi> Let them go to the moun<g ref="char:EOLhyphen"/>tain of the Lord, to the houſe of the God of <hi>Jacob.</hi> And he will teach them of his wayes, if they will walk in his paths.</p>
+            <p>
+               <hi>And with the Prophet</hi> Jeremiah <hi>6.16.</hi> Let them ſtand in the way and ſee, and ask for the old paths, where is the good way, and walk therein, and they ſhall find reſt for their ſouls.</p>
+            <p>And as many as walke according to this rule, peace be upon them and mercy, and upon the Iſrael of God. <hi>Gal. 6.16.</hi>
+            </p>
+            <p>
+               <hi>And let us now hear what God the Lord ſpeaks,</hi> Pſal. <hi>85.8.</hi> As by the mouth of all his holy Prophets which have been ſince the world began. <hi>Luke 1.70.</hi> For if they will not beleeve <hi>Moſes</hi> and the Prophets, neither will they beleeve though one aroſe from the dead. <hi>Luk. 16.31. And firſt what they ſpeake for The Kings AUTHORITY.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">A</seg>Nd let us now begin our work in the name of the Lord, and intreat his bleſſing upon it: and hear what the Lord God himſelf ſaith, who is the God of <hi>Abraham,</hi> of <hi>Iſaac,</hi> and of <hi>Jacob,</hi> the God of our fathers.</p>
+            <p>Numb. 12.8. <hi>Wherefore then were ye not afraid</hi> Aaron <hi>and</hi> Miriam, <hi>to ſpeak againſt my ſervant</hi> Moſes (<hi>marrying an</hi> Ethio<g ref="char:EOLhyphen"/>pian <hi>woman</hi>) verſ. 10. <hi>Miriam became Leprous white as ſnow.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſervation.</hi> That neither high nor low ought to ſpeak againſt Supreame Authority, no not <hi>Aaron</hi> though the high Prieſt: <hi>Eccleſ.</hi> 8.4. <hi>Who may ſay unto him, what doſt thou?</hi>
+                  <pb n="2" facs="tcp:42913:4"/>They are the Lords ſervants.</item>
+               <item>2. <hi>Obſ.</hi> That a Leproſie, or ſome other judgement ſhall be<g ref="char:EOLhyphen"/>fall them that ſpeak againſt ſupream authority, though in marriage; S. <hi>Jude</hi> cals them filthy dreamers, that deſpiſe dominion and ſpeak evill of dignities, <hi>v.</hi> 8.</item>
+            </list>
+            <p>Judges. 17.5. Micah <hi>had an houſe of gods, and conſecrated one of his ſons to be his prieſt. And in thoſe dayes there was no King in</hi> Iſrael, <hi>but every man did that which was right in his own eyes.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That where no King is to rule a Nation, that Nation and people is ready to conſecrate prieſts to themſelves. <hi>Heb.</hi> 4.5. No man ought to take this honour to himſelf, but he that is called of God as was <hi>Aaron,</hi> to be an high prieſt.</item>
+               <item>2. <hi>Obſ.</hi> That where there is no King in a Nation though Gods own people <hi>Iſrael,</hi> yet <hi>Iſrael</hi> walks according to their own wayes, and contrary to the wayes of God. <hi>Lev.</hi> 26.21. <hi>If ye walk contrary unto me, I will walk contrary unto you, and bring ſeven more judgements upon you, for my wayes are not your wayes, nor my thoughts your thoughts, ſaith the Lord.</hi> Iſay 55.8.</item>
+            </list>
+            <p>1 Sam. 8.4. <hi>When the Elders of</hi> Iſrael <hi>perceived that the ſons of</hi> Samuel <hi>though Judges, walked not aright, but followed lucre and perverted judgement. They came to</hi> Samuel <hi>and ſaid unto him, make us a King to judge us like all the Nations.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the Elders, and rulers, the heads of the Tribes of <hi>Iſrael,</hi> deſire to have a King, for to rule them and judge them.</item>
+               <item>2. <hi>Obſ.</hi> That no Elder or ruler ought to diſ-throne a King from ruling or judging.</item>
+            </list>
+            <p>1 Sam. 10.24. <hi>And</hi> Samuel <hi>ſaid unto the Elders and to all the people; See ye him whom the Lord hath choſen, that there is none like him amongſt the people: And all the people ſhouted: and ſaid, God ſave the King.</hi>
+            </p>
+            <list>
+               <pb n="3" facs="tcp:42913:4"/>
+               <item>1. <hi>Obſ.</hi> That Kings have their originall choice from the Lord.</item>
+               <item>2. <hi>Obſ.</hi> That no man ought to be compared to the King.</item>
+               <item>3. <hi>Obſ.</hi> That no man ought to think ſlightly of the King, but to rejoyce in their King.</item>
+               <item>4. <hi>Obſ.</hi> That its the peoples duty to pray for the King, God ſave the King.</item>
+            </list>
+            <p>2 Sam. 16.16. Huſhai <hi>being ſent from</hi> David, <hi>ſaid unto</hi> Abſo<g ref="char:EOLhyphen"/>lon, <hi>God ſave the King. God ſave the King.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That diſſimulation hath a cloak for every action.</item>
+               <item>2. <hi>Obſ.</hi> That prayer is made a cloak for diſſimulation.</item>
+               <item>3. <hi>Obſ.</hi> That fair ſpeeches and the ſtronger party, is made a maine cloak for diſſemblers. 18.19.</item>
+            </list>
+            <p>1. Kings 1.39. <hi>And</hi> Zadok <hi>the prieſt Anointed</hi> Solomon <hi>King, and they blew the trumpet, and all the people ſaid, God ſave King</hi> Solomon.</p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That Kings are the Lords Anointed.</item>
+               <item>2. <hi>Obſ.</hi> That great triumph ought to be made at the Anointing of Kings.</item>
+               <item>3. <hi>Obſ.</hi> That its the peoples duty to pray for their King by name. King <hi>Solomon.</hi> King <hi>Charls.</hi>
+               </item>
+            </list>
+            <p>1 Kings 20.31. <hi>And</hi> Benadads <hi>ſervants ſaid, the Kings of the houſe of</hi> Iſrael <hi>are mercifull Kings, let us put ſackcloth on our loyns, and ropes upon our heads, and go out to the King of</hi> Iſrael, <hi>perad<g ref="char:EOLhyphen"/>venture he will ſave our lives.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the councell of ſervants ought not to be rejected.</item>
+               <item>2. <hi>Obſ.</hi> That Kings ought to be mercifull.</item>
+               <item>3. <hi>Obſ.</hi> That its the duty of the people to be humbled and ſub<g ref="char:EOLhyphen"/>mit their lives to the Kings mercy.</item>
+               <item>4. <hi>Obſ.</hi> That where there is no humiliation, there ought to be no mercy.</item>
+               <pb n="4" facs="tcp:42913:5"/>
+               <item>5. <hi>Obſ.</hi> That Kings have power in themſelves to pardon great offenders.</item>
+            </list>
+            <p>1 Kings 21.13. <hi>Children of</hi> Belial <hi>witneſſed againſt</hi> Naboth, Naboth <hi>did blaſpheme God and the King: And they ſtoned him with ſtones that he died.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That blaſphemers of God and the King, ought to ſuf<g ref="char:EOLhyphen"/>fer death.</item>
+               <item>2. <hi>Obſ.</hi> That we ought not to have an evil thought of the King: Eccleſ. 10.20. <hi>Curſe not the King, no not in thy thoughts.</hi> Exod. 22.28. <hi>Thou ſhalt not curſe the ruler of thy people.</hi>
+               </item>
+            </list>
+            <p>1 Chro. 28.4.29.1. <hi>And</hi> David <hi>the King ſaid unto all the congregation,</hi> Solomon <hi>my ſon whom alone God hath choſen, is yet young and tender.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That God alone chuſes Kings.</item>
+               <item>2. <hi>Obſ.</hi> That God may chuſe Kings when they are young and tender.</item>
+               <item>3. <hi>Obſ.</hi> That it is not in the power and will of man to chuſe Kings: <hi>Prov.</hi> 8.15. <hi>By me Kings reigne.</hi>
+               </item>
+               <item>4. <hi>Obſ.</hi> That the congregation ought to take notice, how the Lord alone chuſes Kings.</item>
+            </list>
+            <p>2 Chro. 30.12. <hi>King</hi> Hezekiah <hi>and his Princes, tooke counſell together to keep the paſſeover: And the hand of God was to give them one heart, to do the commandment of the King and the Prin<g ref="char:EOLhyphen"/>ces, by the word of the Lord.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That Kings and Princes are to councell together.</item>
+               <item>2. That <hi>Kings</hi> and Princes ought to councell together, for the eſtabliſhing of Gods worſhip, the Church Government.</item>
+               <item>3. That it is God that unites the hearts of the people to do the <hi>Kings</hi> Commandement.</item>
+               <item>4. <hi>Obſ.</hi> That the King and his Princes ought not to eſtabliſh any worſhip, but according to the word of the Lord.</item>
+            </list>
+            <pb n="5" facs="tcp:42913:5"/>
+            <p>Ezra. 6.10. <hi>King</hi> Darius <hi>made a decree, and gave to the prieſts to offer ſacrifices of ſweet ſavour unto the God of heaven, and pray for the life of the King, and his ſons.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That all ſacrifices are to be offered up unto the Lord.</item>
+               <item>2. <hi>Obſ.</hi> That in all our ſpirituall ſacrifices, we ought to offer up our prayers to the God of heaven, for the life of the King and his ſons.</item>
+            </list>
+            <p>Ezra. 7.26. Artaxerxes <hi>King of Kings, ſaid unto</hi> Ezra <hi>the prieſt, And whoſoever will not do the law of thy God, and the law of thy King, let judgement be executed upon him ſpeedily, whether it be unto death, or to baniſhment, or to confiſcation of goods, or to im<g ref="char:EOLhyphen"/>priſonment.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That we all ought to be obedient to the laws of God.</item>
+               <item>2. <hi>Obſ.</hi> That all we ought to be obedient to the laws of the King.</item>
+               <item>3. <hi>Obſ.</hi> That puniſhment ought to be inflicted upon the tranſ<g ref="char:EOLhyphen"/>greſſors of the laws, both of God and the King, whether death, baniſhment, confiſcation, impriſonment, according to the Kings mercy.</item>
+            </list>
+            <p>Ezra 7.27. <hi>Bleſſed be the Lord God of our fathers, which hath put ſuch a thing as this in the Kings heart, to beautifie the houſe of the Lord, which is at</hi> Jeruſalem.</p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the prieſts and the ſcribes of the law of the God of heaven, ought to bleſſe the Lord for the houſe of the Lord.</item>
+               <item>2. <hi>Obſ.</hi> That the Lord ought to have his houſe at <hi>Jeruſalem,</hi> the Metropolis.</item>
+               <item>3. <hi>Obſ.</hi> That the Lords houſe ought to be ſought unto, and to be beautified. <hi>Micah</hi> 4.2.</item>
+               <item>4. <hi>Obſ.</hi> That they ought to be puniſhed, that goe about to deface the houſe of the Lord.</item>
+               <item>5. <hi>Obſ.</hi> That its the Kings duty, to ſee that the houſe of the Lord be beautified.</item>
+            </list>
+            <pb n="6" facs="tcp:42913:6"/>
+            <p>Neh. 2.3. Nehemiah <hi>who was the Kings cupbearer ſaid unto the King, Let the King live for ever.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That Godly rulers ought to pray for their King.</item>
+               <item>2. <hi>Obſ.</hi> That Godly rulers ought to pray for the long life of their King.</item>
+               <item>3. <hi>Obſ.</hi> That Godly rulers ought not to think ſlightly of their King, but pray.</item>
+            </list>
+            <p>Neh. 2.6. <hi>And the King ſaid unto me, the Queen ſitting by him, for how long ſhall thy journy be?</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That there hath been Kings and Queens to rule and govern the nations.</item>
+               <item>2. <hi>Obſ.</hi> That no man ought to ſeperate thoſe that God hath joyned together.</item>
+            </list>
+            <p>Eſther 7.5. <hi>King</hi> Ahaſhuerus <hi>ſaid unto Queen</hi> Eſther, <hi>who is he, and where is he that durſt preſume in his heart to do ſo?</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That Kings ought to maintain their Queens, and make enquiry after thoſe that oppoſe them.</item>
+               <item>2. <hi>Obſ.</hi> That all thoſe that oppoſe Queens, ought to have the wrath of the King ſtirred up againſt them.</item>
+               <item>3. <hi>Obſ.</hi> That all thoſe that provoke the King, ſin againſt their own ſouls. <hi>Prov.</hi> 20.2.</item>
+            </list>
+            <p>Job 34.18. <hi>Is it fit to ſay to a King, thou art wicked, and to Prin<g ref="char:EOLhyphen"/>ces, ye are ungodly?</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That no man ought to ſpeak evil of the King.</item>
+               <item>2. <hi>Obſ.</hi> That all men ought to ſtrive to maintain the Kings ho<g ref="char:EOLhyphen"/>nour, and the Princes innocency.</item>
+            </list>
+            <p>Pſal. 18.50. <hi>Great deliverance giveth he to his King, and ſheweth mercy to his Anointed, to</hi> David <hi>and his ſeed for evermore.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That we ought to pray for deliverance for our King.</item>
+               <pb n="7" facs="tcp:42913:6"/>
+               <item>2. <hi>Obſ.</hi> That we ought not to impriſon our King.</item>
+               <item>3. <hi>Obſ.</hi> That Kings are the Lords Anointed.</item>
+               <item>4. <hi>Obſ.</hi> That we ought to pray for the King by his name, <hi>Da<g ref="char:EOLhyphen"/>vid, Charls.</hi>
+               </item>
+               <item>5. <hi>Obſ.</hi> That we ought to pray for the Kings ſeed for evermore.</item>
+            </list>
+            <p>Pſal. 72.1. <hi>Give the King thy judgements O God: and thy righ<g ref="char:EOLhyphen"/>teouſneſſe unto the Kings ſon.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That we ought to pray to God for the King.</item>
+               <item>2. <hi>Obſ.</hi> That we ought to pray to God, that judgement, and wiſdome, and underſtanding, may be given to the King for government.</item>
+               <item>3. <hi>Obſ.</hi> That we ought to pray that the Kings ſeed may be en<g ref="char:EOLhyphen"/>dued with righteouſneſſe.</item>
+               <item>4. <hi>Obſ.</hi> That we muſt all ſtrive to maintain the King in judge<g ref="char:EOLhyphen"/>ment, and his ſeed in righteouſneſſe.</item>
+            </list>
+            <p>Pſal. 84.9. <hi>Behold O God our ſheild, and looke upon the face of thine Anointed.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That its the duty of Kings, to rely upon God; and make him their ſhield.</item>
+               <item>2. <hi>Obſ.</hi> That its the duty of Kings to pray to God for them<g ref="char:EOLhyphen"/>ſelves.</item>
+               <item>3. <hi>Obſ.</hi> That <hi>Kings</hi> in their prayers, may ſet out their preroga<g ref="char:EOLhyphen"/>tives before God: [Anointed.]</item>
+            </list>
+            <p>Pſal. 89.18. <hi>For the Lord is our defence, the holy one of</hi> Iſrael <hi>is our king: I have exalted one choſen out of the people. I have found</hi> David <hi>my ſervant, with my holy oyle have I Anointed him.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That <hi>Kings</hi> ought to rely upon the Lord for defence.</item>
+               <item>2. <hi>Obſ.</hi> That <hi>Kings</hi> muſt not put confidence in man for defence, but in the Lord.</item>
+               <item>3. <hi>Obſ.</hi> That <hi>Kings</hi> are the holy ones of God.</item>
+               <item>4. <hi>Obſ.</hi> That <hi>Kings</hi> are exalted and ſet up by God.</item>
+               <pb n="8" facs="tcp:42913:7"/>
+               <item>5. <hi>Obſ.</hi> That <hi>Kings</hi> are choſen out of the people by God.</item>
+               <item>6. <hi>Obſ.</hi> That <hi>Kings</hi> are the Lords ſervants.</item>
+               <item>7. <hi>Obſ.</hi> That the oyle wherewith <hi>Kings</hi> are Anointed is an ho<g ref="char:EOLhyphen"/>ly oyle.</item>
+            </list>
+            <p>Prov. 8.15. <hi>By me kings reigne and princes decree juſtice.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the reigne of <hi>Kings</hi> is by the power of God, and their authority is from the Lord.</item>
+               <item>2. <hi>Obſ.</hi> That no man hath power to ſubdue the <hi>King</hi> in his reigne.</item>
+               <item>3. <hi>Obſ.</hi> That Princes ought to decree nothing, but that which is juſt.</item>
+               <item>4. <hi>Obſ.</hi> That <hi>Kings</hi> and Princes ought to make no law, nor de<g ref="char:EOLhyphen"/>cree, but that which is according to juſtice, according to the word of God.</item>
+            </list>
+            <p>Prov. 16.10. <hi>A divine ſentence is in the lips of the king: his mouth tranſgreſſeth not in judgement.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the ſentences of <hi>Kings,</hi> ought to be highly eſtee<g ref="char:EOLhyphen"/>med, as the oracles of God.</item>
+               <item>2. <hi>Obſ.</hi> That in the judgement of a <hi>King</hi> is no tranſgreſſion.</item>
+               <item>3. <hi>Obſ.</hi> That we are to yeeld to the <hi>Kings</hi> judgement, and not ſtand upon our own judgement.</item>
+            </list>
+            <p>Prov. 16.15. <hi>In the light of the kings countenance is life, and his favour is as a cloud of the latter raine.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the life of a good ſubject is the chearfull counte<g ref="char:EOLhyphen"/>nance of the <hi>King.</hi>
+               </item>
+               <item>2. <hi>Obſ.</hi> That the favour of the <hi>King,</hi> is like the former and the latter raine upon the ground in his due ſeaſon.</item>
+               <item>3. <hi>Obſ.</hi> That <hi>Kings</hi> ought to ſhew their reſpects to their good ſubjects.</item>
+               <item>4. <hi>Obſ.</hi> That no ſubject ought to provoke the <hi>King</hi> to make him frown.</item>
+            </list>
+            <pb n="9" facs="tcp:42913:7"/>
+            <p>Prov. 20.2. <hi>The feare of a King is as the roaring of a Lion, who ſo provoketh him to anger, ſinneth againſt his own ſoul.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That men ought to be afraid and tremble, for fear of the Kings anger.</item>
+               <item>2. <hi>Obſ.</hi> That no man ought to vex the King, or provoke him to anger.</item>
+               <item>3. <hi>Obſ.</hi> That ſubject ſins againſt his own ſoul, that provokes the King to anger.</item>
+               <item>4. <hi>Obſ.</hi> That we muſt uſe all our power and induſtry, to preſerve the King in his integrity.</item>
+            </list>
+            <p>Prov. 20.28. <hi>Mercy and truth preſerve the King: and his Throne is upholden by mercy.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the preſervation of Kings, is upheld by upholding the attributes of God.</item>
+               <item>2. <hi>Obſ.</hi> That the thrones of Kings are upholden, by hol<g ref="char:EOLhyphen"/>ding forth the word of truth, and the works of mercy.</item>
+               <item>3. <hi>Obſ.</hi> That the Kings care ought to be to ſhew mercy.</item>
+               <item>4. <hi>Obſ.</hi> That Kings are made glorious, both in the eies of their ſubjects, and to other Nations, by holding forth the works of mercy: And here ſee King <hi>Charls</hi> glorious.</item>
+            </list>
+            <list>
+               <item>1. In his ſhewing mercy to his enemies.</item>
+               <item>2. In preſerving the truth from errour.</item>
+               <item>3. In praying for his perſecutors.</item>
+               <item>4. In his deſiring of peace in all theſe wars.</item>
+               <item>5. In his joy in all his afflictions.</item>
+               <item>6. In his patience, in the want and injoyment of his deſired Conſort, and comforts.</item>
+               <item>7. In his manifeſting all the fruits of the ſpirit to be in him: his love to God, to the Kingdome, to his Subjects: his joy in tribulations, his deſire of peace, his long-ſuffering, his gentle<g ref="char:EOLhyphen"/>neſſe, his goodneſſe, his faith, his meekeneſſe, his temperance, theſe have made him glorious: and this is his joy and crowne of rejoycing, and by theſe his Crowne is upholden.</item>
+            </list>
+            <pb n="10" facs="tcp:42913:8"/>
+            <p>Prov. 24.21. <hi>My ſon fear thou the Lord, and the King, and meddle not with them that are given to change.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That none can fear the Lord, but he that fears the <hi>King.</hi>
+               </item>
+               <item>2 <hi>Obſ.</hi> That unleſſe we honour the <hi>King,</hi> we cannot truely fear the Lord.</item>
+               <item>3 <hi>Obſ.</hi> That changelings are not to be truſted unto, nor to have any dealing withall.</item>
+            </list>
+            <p>Prov. 30.31. <hi>And a King againſt whom there is no riſing up.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That no man ought to riſe up againſt the <hi>King,</hi> not by thoughts to thinke evill of him, not by words to curſe him, nor by weapons to war againſt him.</item>
+               <item>2 <hi>Obſ.</hi> That we all ought to lay down our evill thoughts, our wicked words, our ungodly weapons, and to ſubmit unto him.</item>
+               <item>3 <hi>Obſ.</hi> That we all ought to labour in our thoughts, words, and weapons, to preſerve and defend the <hi>King,</hi> and his ſeed after him for evermore.</item>
+            </list>
+            <p>Eccles. 8.2. <hi>I councell thee to keep the Kings Commandement, and that in regard of the oath of God.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That wherein the King Commands the people are to obey.</item>
+               <item>2 <hi>Obſ.</hi> That the Kings Cammands ought to be according to the oath of God.</item>
+               <item>3 <hi>Obſ.</hi> That the oath of God, and the Kings Commands are to be kept.</item>
+            </list>
+            <p>Eccles. 8.4. <hi>Where the word of a King is, there is power, and who may ſay unto him, What doeſt thou?</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That the words of Kings, ought to be powerfull words.</item>
+               <item>2 <hi>Obſ.</hi> That no man is to controle the King, nor to ſpeake againſt him.</item>
+               <item>3 <hi>Obſ.</hi> That the works of Kings, ought all to be righteous works.</item>
+            </list>
+            <pb n="11" facs="tcp:42913:8"/>
+            <p>Eccles. 10.20 <hi>Curſe not the King, no not in thy thoughts, and curſe not the rich in thy bed-chamber, for a bird of the aire ſhall car<g ref="char:EOLhyphen"/>ry the voice, and that which hath wings ſhall tell the matter.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That we ought not ſo much as in our thoughts, to think evill, or to curſe the King.</item>
+               <item>2 <hi>Obſ.</hi> That we ought with our lives and eſtates, in our thoughts, words, and works, to maintaine and uphold the Honour of the King.</item>
+               <item>3 <hi>Obſ.</hi> That no man in Authority ought to be curſed.</item>
+               <item>4 <hi>Obſ.</hi> That we ought to pray for Kings, and for all in Autho<g ref="char:EOLhyphen"/>rity.</item>
+               <item>5 <hi>Obſ.</hi> That the Lord will reveale the ſecrets of mens hearts, even of thoſe that curſe the King, or any in Authority.</item>
+            </list>
+            <p>Iſaiah 49.23. <hi>Kings ſhall be thy nurſing fathers, and Queens thy nurſing mothers.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That its the duty of Kings and Queenes, to be tenderly affected towards their ſubjects.</item>
+               <item>2 <hi>Obſ.</hi> That its the ſubjects duty, to preſerve and maintaine their Kings and Queens, with all fitting maintenance for their places.</item>
+               <item>3 <hi>Obſ.</hi> That Kings and Queens ought to live together, to be ai<g ref="char:EOLhyphen"/>ding and aſſiſting one to the other: As fathers and mothers.</item>
+            </list>
+            <p>Jer. 27.8. <hi>It ſhall come to paſſe that the Nation and Kingdom which will not ſerve</hi> Nebuchadnezzar <hi>King of Babylon, will I puniſh with the ſword, with the famine, and with the peſtilence, and hearken not to your Prophets, for they propheſie a lye unto you, bringing your neckes under the yoak of the King of Babylon, and ſerve him and his people and live, why will ye die, thou and thy people, by the ſword, by the famine, and by the peſtilence, as the Lord hath ſpoken againſt the Nation that will not ſerve the King of Babylon?</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That Nations and Kingdomes are to be governed by Kings.</item>
+               <pb n="12" facs="tcp:42913:9"/>
+               <item>2. <hi>Obſ.</hi> That though a King be a wicked King, yet he muſt be ſerved.</item>
+               <item>3. <hi>Obſ.</hi> That the puniſhment of a Nation or Kingdome, whe<g ref="char:EOLhyphen"/>ther by ſword, famine, or peſtilence, follows the diſloyalty to the Kings commands.</item>
+               <item>4. <hi>Obſ.</hi> That if Prophets propheſie diſloyalty to the Kings com<g ref="char:EOLhyphen"/>mands, we are not to hearken unto them: they propheſie a lie.</item>
+               <item>5. <hi>Obſ.</hi> That its the ſubjects ſpeciall duty, to obey the Kings command.</item>
+               <item>6. <hi>Obſ.</hi> That all thoſe that diſobey the Kings commands ſhall be puniſhed by death: with ſword, by famine, by peſtilence.</item>
+               <item>7. <hi>Obſ.</hi> That its the Lord that brings his puniſhments, and in<g ref="char:EOLhyphen"/>flicts them upon a diſloyall Nation, or Kingdome, where he pleaſeth.</item>
+            </list>
+            <p>Jer. 30.9. <hi>But they ſhall ſerve the Lord their God, and</hi> David <hi>their King, whom I will raiſe up unto them.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That the Lord God is to be ſerved.</item>
+               <item>2. <hi>Obſ.</hi> That <hi>David</hi> their King is to be ſerved.</item>
+               <item>3. <hi>Obſ.</hi> That they are joyned together to ſerve the Lord God, &amp; <hi>David</hi> their King: ſo ſerve the Lord God, &amp; <hi>Charls</hi> their King.</item>
+               <item>4. <hi>Obſ.</hi> That the Lord raiſes up Kings, and commands all their ſubjects to ſerve them.</item>
+            </list>
+            <p>Ezek. 37.24. David <hi>my ſervant ſhall be King over them, and they all ſhall have one ſhepheard, and they ſhall walke in my judge<g ref="char:EOLhyphen"/>ments, and obſerve my ſtatutes and do them.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That all Godly Kings are the Lords immediate ſervants.</item>
+               <item>2. <hi>Obſ.</hi> That where a Godly <hi>King</hi> Rules, there they have all one Godly miniſtry, one Godly government, one faith, one bap<g ref="char:EOLhyphen"/>tiſme.</item>
+               <item>3. <hi>Obſ.</hi> That no liberty ought to be given to tender conſciences, to walke contrary to Gods ſtatutes.</item>
+               <item>4. <hi>Obſ.</hi> That the judgements, and ſtatutes, and commandments of God, ought to be the rule and the way, wherein every man ought to walke.</item>
+               <pb n="13" facs="tcp:42913:9"/>
+               <item>5. <hi>Obſ.</hi> That no command of man bindes the Conſcience to be obſerved, that is contrary to the ſtatutes and command<g ref="char:EOLhyphen"/>ments of God.</item>
+            </list>
+            <p>Hoſea 10.3. <hi>For now they ſhall ſay we have no King, becauſe we feared not the Lord, what then ſhould a King do to us?</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That where a people or a Nation begin to caſt off the fear of the Lord, that people or Nation deſires no <hi>King.</hi>
+               </item>
+               <item>2. <hi>Obſ.</hi> That if <hi>England</hi> fear the Lord, then <hi>England</hi> deſires a <hi>King.</hi>
+               </item>
+               <item>3. <hi>Obſ.</hi> That people feare not the Lord, that doe not highly eſteeme of, and honour their <hi>King.</hi>
+               </item>
+            </list>
+            <p>Hoſea 13.10. <hi>O</hi> Iſrael, <hi>I will be thy King, thou ſaidſt, give me a King and Princes: I gave thee a King in mine anger, and tooke him away in my wrath.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That God takes the title and name of a <hi>King</hi> to him<g ref="char:EOLhyphen"/>ſelfe.</item>
+               <item>2. <hi>Obſ.</hi> That the people of God, hath God to be their <hi>King.</hi>
+               </item>
+               <item>3. <hi>Obſ.</hi> That <hi>Kings</hi> are given, and taken away by God.</item>
+               <item>4. <hi>Obſ.</hi> That no man hath power to place, or diſplace the <hi>King,</hi> but God himſelfe.</item>
+            </list>
+            <p>Mat. 17.12. <hi>Jeſus asked</hi> Peter, <hi>what thinkeſt thou</hi> Simon? <hi>of whom doe the Kings of the earth take cuſtome? of ſtrangers, or of their own children? yet leſt we ſhould offend, goe to the ſea, caſt an hooke, take a fiſh, open his mouth, take a piece of money, and pay for thee and me.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Obſ.</hi> That Chriſt allows of <hi>Kings</hi> to be on the earth.</item>
+               <item>2. <hi>Obſ.</hi> That Chriſt will pay cuſtome to <hi>Caeſar,</hi> rather then of<g ref="char:EOLhyphen"/>fend <hi>Caeſar.</hi>
+               </item>
+               <item>3. <hi>Obſ.</hi> That Chriſt will work a miracle, to pay cuſtome to the <hi>Kings</hi> of the earth, rather then offend.</item>
+               <pb n="14" facs="tcp:42913:10"/>
+               <item>4 <hi>Obſ.</hi> That by Chriſts Example all men muſt ſubmit to the cuſtomes and priviledges of Kings.</item>
+               <item>5 <hi>Obſ.</hi> That free children ought rather to ſubmit to the cuſtomes of their Kings, then offend.</item>
+            </list>
+            <p>Mat. 22.20. Mar. 12.17. Luke 20.25. <hi>Whoſe is this Image and Superſcription?</hi> Ceſars. <hi>Render to</hi> Ceſar <hi>the things that be</hi> Ceſars, <hi>and to God the things that be Gods.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That the Authority of Kings may be enquired after.</item>
+               <item>2 <hi>Obſ.</hi> That when the Kings Authority is made known, it pre<g ref="char:EOLhyphen"/>ſently muſt be obeyed.</item>
+               <item>3 <hi>Obſ.</hi> That its the command of God, to give Kings their due.</item>
+               <item>4 <hi>Obſ.</hi> That no man ought to hinder the King of his cuſtomes, and his dues, but render them to him.</item>
+            </list>
+            <p>Rom. 13.1.2.7. <hi>Let every ſoul be ſubject to the higher powers, for there is no power but of God, and the powers that be are ordained of God: Whoſoever therefore reſiſteth the power, reſiſteth the ordi<g ref="char:EOLhyphen"/>nance of God: And they that reſiſt, ſhall receive to themſelves dam<g ref="char:EOLhyphen"/>nation.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That every man ought to ſubmit himſelfe to that Au<g ref="char:EOLhyphen"/>thority that is ſet over him by God.</item>
+               <item>2 <hi>Obſ.</hi> That where God ſets not Authority, that ſoul ought not to be ſubject.</item>
+               <item>3 <hi>Obſ.</hi> That where Authority commands things contrary to God, that Authority ought not to be obeyed, by active obedi<g ref="char:EOLhyphen"/>ence.</item>
+               <item>4 <hi>Obſ.</hi> That no man ought to reſiſt that Authority that is or<g ref="char:EOLhyphen"/>dained of God.</item>
+               <item>5 <hi>Obſ.</hi> That the Authority of Kings is ordained of God, and no man ought to reſiſt them.</item>
+               <item>6 <hi>Obſ.</hi> That damnation is the reward of diſloyalty, to the Kings Authority.</item>
+            </list>
+            <p>1 Tim. 2.1.2. <hi>I exhort therefore, that firſt of all, ſupplications,
+<pb n="15" facs="tcp:42913:10"/>prayers, interceſsions, and giving of thanks, be made for all men, for Kings and all that are in Authority. That we may lead a quiet and peaceable life in all godlineſſe and honeſty, for this is good and acceptable in the ſight of God our Saviour.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That all manner of prayers ought to be made for Kings, and all in Authority.</item>
+               <item>2 <hi>Obſ.</hi> That no quiet and peaceable living can be in any King<g ref="char:EOLhyphen"/>dome, where Kings and Magiſtrates are not prayed for.</item>
+               <item>3 <hi>Obſ.</hi> That it is a good and acceptable ſacrifice to God our Sa<g ref="char:EOLhyphen"/>viour, to offer up prayers and thankes for Kings, and all in Au<g ref="char:EOLhyphen"/>thority.</item>
+            </list>
+            <p>Titus 3.1. <hi>Put them in minde to be ſubject to principalities, and powers, to obey Magiſtrates, to be ready to every good worke.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That people muſt be put in mind of their duty, they are apt to forget it.</item>
+               <item>2 <hi>Obſ.</hi> That its the miniſters duty to preach ſubjection to ſu<g ref="char:EOLhyphen"/>preame Authority.</item>
+               <item>3 <hi>Obſ.</hi> That its the peoples duty, willingly to yeild obedience to all Authority.</item>
+               <item>4 <hi>Obſ.</hi> That by our good works we ſhew forth our obedience to ſupreame Authority, and power of the Magiſtrate.</item>
+            </list>
+            <p>1 Pet. 2.13, 17. <hi>Submit your ſelves therefore to every ordinance of man for the Lords ſake, whether it be to the King as ſupreame, or unto Governours as unto them that are ſent by him, for the puniſh<g ref="char:EOLhyphen"/>ment of evil doers, and for the praiſe of them that do well, for ſo is the will of God: honour all men, love the Brotherhood, fear God, Honour the King.</hi>
+            </p>
+            <list>
+               <item>1 <hi>Obſ.</hi> That the ordinances of man, that are made agreeable to the word of the Lord, ought to be obeyed.</item>
+               <item>2 <hi>Obſ.</hi> That the King is the ſupreame Governour, and his Au<g ref="char:EOLhyphen"/>thority is ſupreame Authority, and his commands are ſupream<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:42913:11"/>to be obeyed.</item>
+               <item>3. <hi>Obſ.</hi> That governours are ſent by the <hi>King,</hi> and have their authority from the <hi>King.</hi>
+               </item>
+               <item>4. <hi>Obſ.</hi> That the authority of governours, is to puniſh evil do<g ref="char:EOLhyphen"/>ers, and to praiſe them that do well.</item>
+               <item>5. <hi>Obſ.</hi> That its Gods will that the <hi>King</hi> is ſupreame gover<g ref="char:EOLhyphen"/>nour, and he commands: his commands are ſupreamly to be obeyed.</item>
+               <item>6. <hi>Obſ.</hi> That no government ought to be ſet up, neither in Church nor ſtate, that is not according to the word and will of God.</item>
+               <item>7. <hi>Obſ.</hi> That all men ought to be honoured in that place of au<g ref="char:EOLhyphen"/>thority, whereunto God hath called them.</item>
+               <item>8. <hi>Obſ.</hi> That the Saints of God upon earth ought to be loved.</item>
+               <item>9. <hi>Obſ.</hi> That high and low, rich and poor, ought to fear God.</item>
+               <item>10. <hi>Obſ.</hi> That all men, high and low, rich and poor, noble and ignoble, young and old, it is their duty to honour the <hi>King:</hi> God ſave the <hi>King,</hi> God ſave <hi>King Charls.</hi>
+               </item>
+            </list>
+            <p>Thus gentle Reader, have we run through theſe places and texts of Scripture, which hath ſufficiently to ſatifie every mans ſoule, proved unto us painly, the worke we have taken in hand to ſet forth The Kings AUTHORITY. And leſt any ſhould with the Atheiſt deny there is a God, or a King; we will gather up theſe fragments again, that nothing be loſt. And now view and behold the The Kings AUTHORITY, and the Subjects DUTY.</p>
+            <p>And ſo here we may plainly ſee and obſerve, That the Lord alone hath choſen Kings (not man.) And he hath choſen them to Rule over and to Govern his own people <hi>Iſrael.</hi> And Kings are the Lords immediate ſervants, his holy ones. The Lords A<g ref="char:EOLhyphen"/>nointed for that purpoſe to Govern his people, &amp; their Thrones are upholden by the Lord, &amp; their AUTHORITY is from the Lord, and their AUTHORITY is ſupreame AUTHORITY over ALL.</p>
+            <list>
+               <pb n="17" facs="tcp:42913:11"/>
+               <head>And yet they owe duty to God, as firſt,</head>
+               <item>1 To ſee that the houſe of the Lord be beautified.</item>
+               <item>2 To maintain their Queens, againſt all that ſhall oppoſe them.</item>
+               <item>3 To pray to God for themſelves, and to make God their de<g ref="char:EOLhyphen"/>fence and ſhield, and not put confidence in man.</item>
+               <item>4 To make all their Lawes, and decrees, and ordinances, ac<g ref="char:EOLhyphen"/>cording to the Lawes of God, and their ſentences and words, to be as the Oracles of God.</item>
+               <item>5 To ſhew a cheerfull countenance, and their due reſpects to their good ſubjects: And to hold forth the Attributes of God according to the word of truth, and to ſhew mercy, and to do righteous works.</item>
+               <item>6 To endeavour to have all one godly Miniſtry, one Lord, one Faith, one Baptiſme, one union in Religion and Church Go<g ref="char:EOLhyphen"/>vernment, and no liberty if they walke contrary to God.</item>
+               <item>7 To appoint Governours, and to Authorize them to puniſh evill doers, and to praiſe them that do well.</item>
+            </list>
+            <list>
+               <head>And let us now ſee the duty of Godly Rulers to their King.</head>
+               <item>1 GOdly Rulers and Elders, muſt deſire to have a King, to Rule them and to Govern them.</item>
+               <item>2 Godly Rulers have no power to chuſe a King, to diſ-throne a King, or to impriſon a King.</item>
+               <item>3 Godly Rulers ought to pray for the King, to pray for the long life of the <hi>King,</hi> and not compare themſelves to the <hi>King,</hi> nor thinke ſlightly of the <hi>King.</hi>
+               </item>
+               <item>4 Godly Rulers ought to ſtrive to maintain the <hi>Kings</hi> Honour, the <hi>Princes</hi> innocency, and not to ſeperate the <hi>King</hi> and the <hi>Queene.</hi>
+               </item>
+               <item>5 Godly Rulers ought to puniſh evill doers, and to praiſe them that do well.</item>
+            </list>
+            <list>
+               <head>And here next behold the Prophets duty.</head>
+               <item>1 ANd they are to Propheſie Loyalty, and Obedience to the <hi>Kings</hi> commands.</item>
+               <pb n="18" facs="tcp:42913:12"/>
+               <item>2 They are to offer Sacrifice, to pray for the <hi>King</hi> and his Sons.</item>
+               <item>3 They are to preach to the people ſubjection, to ſupreame Authority.</item>
+            </list>
+            <p>
+               <hi>And becauſe we will have compaſsion on the multitude, and not let them depart without a bleſsing, we will ſhew them their duty.</hi>
+            </p>
+            <list>
+               <head>And here obſerve now, and behold the peoples duty to their King.</head>
+               <item>
+                  <hi>1. THe peoples duty is, to pray for wiſdome and underſtand<g ref="char:EOLhyphen"/>ing for the King.</hi>
+               </item>
+               <item>
+                  <hi>2. The peoples duty is, to pray for the King by his name, God ſave King</hi> Solomon: <hi>God ſave King</hi> Charls.</item>
+               <item>
+                  <hi>3. The peoples duty is, to pray for the King, and his ſeed for evermore.</hi>
+               </item>
+               <item>
+                  <hi>4. The peoples duty is, not to compare themſelves to the King, nor thinke ſlightly of the King, nor curſe the King.</hi>
+               </item>
+               <item>
+                  <hi>5. The peoples duty is, to maintain and uphold with their lives and eſtates the Kings honour: and to humble themſelves, and ſubmit their lives to the Kings mercy.</hi>
+               </item>
+               <item>
+                  <hi>6. The peoples duty is, to obey all the Laws and commands of the King.</hi>
+               </item>
+               <item>
+                  <hi>7. The peoples duty is, not to provoke the King to anger, nor to controle the King, nor to riſe up againſt the King, by thought, by word, or by weapon.</hi>
+               </item>
+               <item>
+                  <hi>8. The peoples duty is, to ſerve and obey the King, leſt the pu<g ref="char:EOLhyphen"/>niſhment of diſloyaltie to the Kings commands befall them, as ſword, famine, peſtilence.</hi>
+               </item>
+               <item>
+                  <hi>9. The peoples duty is, to pay cuſtomes or tributes to their King,</hi> Caeſar.</item>
+               <item>
+                  <hi>10. The peoples duty is to obſerve the duty for fear of a greater puniſhment: damnation is the reward of all thoſe that reſiſt the Kings ſupreame AUTHORITY: bleſſedneſſe is the re<g ref="char:EOLhyphen"/>ward of all thoſe that ſubmit unto, and obey the Kings ſu<g ref="char:EOLhyphen"/>preame AUTHORITY.</hi>
+               </item>
+            </list>
+            <pb n="19" facs="tcp:42913:12"/>
+            <p>And thus having laid ten commands upon the people, to which they muſt all ſubmit and obey: Let us againe view and behold <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+            </p>
+            <p>
+               <hi>And here by theſe commands of God by his ſervant</hi> Moſes, <hi>and by all his holy Prophets: by the practice of Jeſus Chriſt, and by the commands of his holy Apoſtles.</hi>
+            </p>
+            <p>
+               <hi>Let us now with</hi> Moſes <hi>the ſervant of the Lord, call</hi> Iſrael <hi>to a reckoning, and with</hi> Iſrael, England: <hi>and ſee what God could have done more for</hi> Iſrael England <hi>then he hath done.</hi> Deut. <hi>10.12.</hi>
+            </p>
+            <p>
+               <hi>And now O</hi> Iſrael, <hi>O</hi> England: <hi>What doth the Lord thy God require of thee? to fear the Lord thy God, to walke in all his wayes, to love him, and to ſerve the Lord thy God with all thy heart, and with all thy ſoul: and to keep the commandments of the Lord and his ſtatutes,</hi> and to doe that which is good and right in the ſight of the Lord thy God. <hi>Deut. 12.28. for it is true which S.</hi> Luke <hi>ſaith,</hi> Luke <hi>12.47.</hi> He that knows his Maſters will and doth it not, ſhall be beaten with many ſtripes. <hi>And to this Chriſt himſelfe ſaith,</hi> Mat. <hi>7.21.</hi> Not every one that ſaith, Lord, Lord, ſhall enter into the Kingdome of heaven: but he that doth the will of my father which is in heaven.</p>
+            <p>
+               <hi>Therefore I ſhall deſire you with the Noble</hi> Bereans, <hi>Acts 17.11.</hi> to ſearch the Scriptures daily whether theſe things be ſo or no, <hi>that ye may beleeve, and in beleeving have everlaſting life.</hi>
+            </p>
+            <p>
+               <hi>But withall I muſt admoniſh you according to that of 1</hi> Jo. <hi>4.1.</hi> Beleeve not every ſpirit, but trie the ſpirits whether they be of God or no: for falſe Prophets are gone out into the world. And behold they come unto you in ſheeps cloathing, but inwardly they are rave<g ref="char:EOLhyphen"/>ning wolves, and if it were poſsible, they would deceive the very elect. <hi>Mat. 24.24.</hi> But by their fruits you ſhall know them.</p>
+            <p>
+               <hi>And if you deſire to know them, then I ſhall exhort you as 2</hi> Chro. <hi>20.20.</hi> Beleeve in the Lord your God, ſo ſhall ye be eſtabli<g ref="char:EOLhyphen"/>ſhed, beleeve his Prophets, as <hi>Jam. 5.10.</hi> that have ſpoken to you in the name of the Lord, ſo ſhall ye proſper.</p>
+            <pb n="20" facs="tcp:42913:13"/>
+            <p>
+               <hi>1 John 3.23.</hi> And this is his commandement, that we ſhould be<g ref="char:EOLhyphen"/>leeve on the name of his ſon Jeſus Chriſt, and love one another, for there is no Name under heaven given among men whereby we muſt be ſaved, but the name of the Lord Jeſus, <hi>Acts 4.12.</hi>
+            </p>
+            <p>Thinke not to ſay within your ſelves we have <hi>Abraham</hi> to our fa<g ref="char:EOLhyphen"/>ther, <hi>Mat. 3.9. or we are great, or rich, or have this priviledge or other, God is greater,</hi> and able of theſe ſtones to raiſe up chil<g ref="char:EOLhyphen"/>dren unto <hi>Abraham.</hi> But now the ax is laid to the root of the tree: Therefore every tree that bringeth not forth good fruit, is hewen down and caſt into the fire. By their fruits therefore ye ſhall know them: for now is the time of envying, ſtrife and diviſion, <hi>1 Cor. 3.3.</hi> Now is the time of confuſion, and every evil work. <hi>Jam. 3.16.</hi>
+            </p>
+            <p>
+               <hi>Now then this is the time, as</hi> Jam. <hi>5.16.</hi> That the fervent pray<g ref="char:EOLhyphen"/>er of the righteous man ſhould availe much with the Lord.</p>
+            <p>
+               <hi>And therefore ſhall we with</hi> Abraham <hi>the father of the faith<g ref="char:EOLhyphen"/>full, ſhall we follow his example,</hi> Gen. <hi>18.23.</hi> ſtand and draw neere before the Lod, and intercede for <hi>Sodom:</hi> for <hi>England:</hi> and pray, peradventure, there be fifty righteous within <hi>England;</hi> wilt thou alſo deſtroy, and not ſpare the Kingdome for the fifty righteous that are therein?</p>
+            <p>
+               <hi>Shall we follow the example of</hi> Moſes <hi>the ſervant of the Lord,</hi> Exod. <hi>32.30.</hi> Goe up unto the Lord, and make an attonement for the Kingdome, and ſay, this people have ſinned a great ſin: <hi>They have denied the Kings AUTHORITY:</hi> Yet now, if thou wilt, for<g ref="char:EOLhyphen"/>give their ſin; and if not, blot me, I pray thee, out of the Book thou haſt written.</p>
+            <p>
+               <hi>And likewiſe ſhall we follow his example againe, for a good example cannot be too much followed. As</hi> Deut. <hi>9.25.</hi> Shall we fall downe on our knees, and pray unto the Lord, and ſay, Oh Lord God, deſtroy not this Kingdome, this people, thine inheritance, which thou haſt redeemed, through thy greatneſſe, and brought out of E<g ref="char:EOLhyphen"/>gypts darkneſſe, with a mighty hand, and an out-ſtretched arme. Re<g ref="char:EOLhyphen"/>member thy ſervants Abraham, Iſaac, and Jacob, and look not upon the ſtubbornneſſe of this people, nor to their ſin.</p>
+            <pb n="21" facs="tcp:42913:13"/>
+            <p>
+               <hi>Shall we follow the example of</hi> Joſhuah, <hi>a Ruler full of the ſpirit of wiſdome,</hi> Ioſhua <hi>7.10.</hi> Unto whom the Lord ſaid, Get thee up, wherefore lyeſt thou thus upon thy face? Iſrael hath ſinned, and they have alſo tranſgreſſed my covenant which I commanded them, for they have even taken of the accurſed thing, and they have alſo ſtolne, and diſſembled alſo: and they have put it even among their own ſtuffe. A goodly Babyloniſh garment, &amp; two hundred ſhe<g ref="char:EOLhyphen"/>kels of ſilver, and a wedge of gold of fifty ſhekels weight. <hi>A goodly thing to deſtroy the ſoule: England be warned by this; for</hi> what will it profit a man to gain the whole world, and loſe his owne ſoule?</p>
+            <p>
+               <hi>Shall we follow the example of</hi> David, <hi>a man after Gods own heart, who exhorts us,</hi> Pſal. <hi>95.6.</hi> O come let us worſhip and bow downe, and kneele before the Lord our Maker, <hi>leſt he be grieved with us forty yeeres, as he was with that generation, and ſware unto us in his wrath, we ſhould not enter into his reſt?</hi>
+            </p>
+            <p>
+               <hi>Shall we follow the example of</hi> Solomon, <hi>who, 1</hi> Kings <hi>8.22.</hi> ſtood before the Altar of the Lord, and kneeled upon his knees, and ſpread forth his hands towards heaven, and ſaid, If Iſrael ſinned, <hi>[if England]</hi> and they would turne againe, and confeſſe their ſin, and make ſupplication, then he would heare in heaven, and forgive their ſin, and heale the Land.</p>
+            <p>
+               <hi>Shall we follow the example of</hi> Daniel, Dan. <hi>9.3.</hi> who ſet his face unto the Lord God, to ſeek by prayer and ſupplications, with faſt<g ref="char:EOLhyphen"/>ing, and ſackcloth, and aſhes, and prayed unto the Lord, and made confeſsion, ſaying, We have ſinned, and have committed ini<g ref="char:EOLhyphen"/>quity, and have rebelled, and departed from thy precepts, and from thy judgements: And have not harkned to thy ſervants the Prophets which ſpake in thy name to our Kings, our Princes, and our fathers, and to all the people of the land: <hi>Hearken now and be no more rebellious.</hi>
+            </p>
+            <p>
+               <hi>Shall we now take the example of all examples, and follow Jeſus Chriſt, who in</hi> Mat. <hi>26.39.</hi> fell on his face and prayed, <hi>Mar. 1.35.</hi> Who departed into a ſolitary place and there prayed
+<pb n="22" facs="tcp:42913:14"/>
+               <hi>Luke 22.41.</hi> Who withdrew himſelf from them about a ſtones caſt, and kneeled down and prayed. <hi>Joh. 17.1.</hi> Who lift up his eyes to heaven and ſaid, <hi>Heb. 5.7.</hi> Who in the dayes of his fleſh, when he had offered up prayers and ſupplications, with ſtrong crying and teares, unto him that was able to ſave him from death, and was heard in that he feared.</p>
+            <p>
+               <hi>And withall take a caveat here with you, not to follow the example of the hypocrites, who</hi> Mat. <hi>6.5.</hi> love to pray ſtanding in the Synagoges, and in the corners of the ſtreets, that they may be ſeen of men. <hi>And Mat. 23.14.</hi> Who devour widdowes houſes, and for a pretence make long prayers, but theſe ſhall receive greater damnation.</p>
+            <p>
+               <hi>Having thus finiſhed our courſe, and now brethren being thus compaſſed about with ſuch a cloud of examples of witneſſes, that ſhall all in the laſt day riſe up in judgement againſt us, for</hi> heaven and earth ſhall paſſe away, but not one tittle of the word of God ſhall faile.</p>
+            <p>
+               <hi>Let us follow Jeſus preaching, and ſaying,</hi> Repent, for the kingdome of heaven is at hand. <hi>Mat. 4.17. And Luk. 13.3.</hi> Ex<g ref="char:EOLhyphen"/>cept ye repent ye ſhall all likewiſe periſh. <hi>And Luke 21.36.</hi> Watch ye therefore and pray alwayes, that ye may be accounted worthy to eſcape all thoſe things that ſhall come to paſſe, and to ſtand before the Son of man.</p>
+            <p>
+               <hi>And let us follow S.</hi> Peters <hi>rule, 1</hi> Pet. <hi>5.8.</hi> Be ſober, be vigilant, becauſe your adverſary the divel, as a roaring lion wal<g ref="char:EOLhyphen"/>keth about, ſeeking whom he may devour.</p>
+            <p>
+               <hi>And with the author to the</hi> Heb. <hi>12.1. let us now look about us,</hi> Let us lay aſide every weight, and the ſin that doth ſo eaſily be<g ref="char:EOLhyphen"/>ſet us, and let us run with patience the race that is ſet before us.</p>
+            <p>
+               <hi>We have a good example,</hi> Looking up unto Jeſus the author and finiſher of our faith, who for the joy that was ſet before him, en<g ref="char:EOLhyphen"/>dured the croſſe, deſpiſed the ſhame, and is ſet down at the right hand of the throne of God, from whence he ſhall come in the glory of his father, with all his holy Angels, and he ſhall reward every man
+<pb n="23" facs="tcp:42913:14"/>according to his works, according to that he hath done in his body, whether it be good or bad, <hi>(no ſhifting from him in that day.)</hi>
+            </p>
+            <p>For before him all nations ſhall be gathered together, and he ſhall ſeparate them one from another, as a ſheepheard divideth the ſheep from the goates. <hi>Mat. 25.32.</hi> And he ſhall ſet the ſheepe on his right hand, but the goates on the left.</p>
+            <p>Then ſhall the king ſay unto them on the right hand, Come ye bleſ<g ref="char:EOLhyphen"/>ſed of my father, inherit the kingdome prepared for you from the foundation of the world. <hi>For ye are they that have obeyed my word, my ſervant</hi> Moſes, <hi>my holy Prophets and Apoſtles, and have obeyed the Kings AUTHORITY delivered by them.</hi>
+            </p>
+            <p>
+               <hi>But unto the goates on the left hand,</hi> Depart from me ye cur<g ref="char:EOLhyphen"/>ſed, into everlaſting fire, prepared for the devil and his angels, <hi>for ye are they that are diſobedient, and rebellious againſt the word of the Lord, againſt the holy Prophets and holy Apoſtles, and againſt the example and commands of Jeſus Chriſt himſelf, who commands obedience to</hi> Caeſar: <hi>Submiſſion to the Kings Supreame AUTHORITY.</hi>
+            </p>
+            <p>Now theſe things have I written unto you according to the pow<g ref="char:EOLhyphen"/>er which the Lord hath given me for edification, <hi>2</hi> Cor. <hi>13.10. In hopes the better learned will amend it.</hi> And brethren be perfect, be of good comfort, be of one mind, fear God, honour the King: Live in peace, and the God of love and peace ſhall be with you.</p>
+            <p>
+               <hi>And the grace of our Lord Jeſus Chriſt, and the love of God, and the communion of the holy Ghoſt, be with you all. Amen.</hi>
+            </p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
